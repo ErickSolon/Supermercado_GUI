@@ -1,0 +1,8 @@
+.root {
+	-fx-background-color: lightgrey;
+}
+
+#botao {
+	-fx-background-color: yellow;
+	-fx-text-fill: red;
+}
